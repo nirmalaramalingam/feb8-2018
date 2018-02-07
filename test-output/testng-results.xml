@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="BB_FW6Feb2018" duration-ms="772" started-at="2018-02-06T10:48:41Z" finished-at="2018-02-06T10:48:42Z">
+    <groups>
+    </groups>
+    <test name="Set1" duration-ms="772" started-at="2018-02-06T10:48:41Z" finished-at="2018-02-06T10:48:42Z">
+      <class name="Scenario_Component.Scenario_Search">
+        <test-method status="PASS" signature="Reports()[pri:0, instance:Scenario_Component.Scenario_Search@3ecd23d9]" name="Reports" is-config="true" duration-ms="32" started-at="2018-02-06T16:18:41Z" finished-at="2018-02-06T16:18:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reports -->
+      </class> <!-- Scenario_Component.Scenario_Search -->
+    </test> <!-- Set1 -->
+  </suite> <!-- BB_FW6Feb2018 -->
+</testng-results>
